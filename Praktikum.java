@@ -1,2 +1,2 @@
-public class Robot{
+public class main{
 }
